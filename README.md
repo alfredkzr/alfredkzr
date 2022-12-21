@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alfred</h1>
-<h3 align="center">Hi there! My name is [Insert Name Here] and I am an IT professional with over 10 years of experience living in Singapore. I have a strong background in automation and have completed numerous projects in this area, utilizing technology stacks such as Okta, Azure, AWS, and Google Workspace. Throughout my career, I have gained a wealth of knowledge and expertise in various technologies, including [Insert Technology Here]. I am highly skilled in the design, development, and implementation of automation solutions using these platforms, and have a proven track record of delivering successful projects on time and within budget. In my current role, I am responsible for leading a team of IT professionals in the development and maintenance of automation systems for [Insert Company/Organization Here]. I am also involved in the research and evaluation of new technologies and approaches to automation, and am always seeking out opportunities to improve and optimize our systems using platforms such as Okta, Azure, AWS, and Google Workspace. Outside of work, I am an avid learner and enjoy staying up to date on the latest trends and developments in the IT industry. I am also a member of several professional organizations, including the [Insert Professional Organization Here], where I am actively involved in networking and knowledge sharing. Thank you for visiting my profile. I hope you find my projects and experience in automation interesting and informative. Feel free to reach out to me if you have any questions or would like to collaborate on a project.</h3>
+<h3 align="center">I am an IT professional with over 10 years of experience living in Singapore. I have a strong background in automation and have completed numerous projects in this area, utilizing technology stacks such as Okta, AWS, Azure, Jira and other platforms to make the magic happen. I am highly skilled in the design, development, and implementation of automation solutions for security team using these platforms, and have a proven track record of delivering successful projects on time and within budget.
+  
+In my current role, I am responsible for the development and maintenance of identity security systems for a world leading crypto company.
+  
+I hope you find my projects and experience in automation interesting and informative. Feel free to reach out to me if you have any questions or would like to collaborate on a project.</h3>
 
-- 🔭 I’m currently working on **identity & access management automation**
+- 🔭 I’m currently working on **Identity & Access Management Automations**
 
 - 🌱 I’m currently learning **AWS and Python**
 
