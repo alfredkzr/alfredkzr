@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfred</h1>
-<h3 align="center">I am an IT professional with over 10 years of experience living in Singapore. I have a strong background in automation and have completed numerous projects in this area, utilizing technology stacks such as Okta, AWS, Azure, Jira and other platforms to make the magic happen. I am highly skilled in the design, development, and implementation of automation solutions for security team using these platforms, and have a proven track record of delivering successful projects on time and within budget.
+<h3>I am an IT professional with over 10 years of experience living in Singapore. I have a strong background in automation and have completed numerous projects in this area, utilizing technology stacks such as Okta, AWS, Azure, Jira and other platforms to make the magic happen. I am highly skilled in the design, development, and implementation of automation solutions for security team using these platforms, and have a proven track record of delivering successful projects on time and within budget.
   
 In my current role, I am responsible for the development and maintenance of identity security systems for a world leading crypto company.
   
