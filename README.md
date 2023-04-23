@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfred</h1>
-<h3>I am an experienced IT professional residing in Singapore, with over a decade of technical expertise across various industries including healthcare, logistics, advertising, manufacturing, and fintech. My core competency lies in automation, and I have successfully executed numerous automation projects utilizing various technology stacks such as Okta, AWS, Azure, Jira, and other platforms.
+<h3>I am an experienced IT professional residing in Singapore, with over a decade of technical expertise across various industries including healthcare, logistics, advertising, manufacturing, and fintech. My core competency lies in automation, and I have successfully executed numerous automation projects utilizing various technology stacks such as AWS, Azure, Google Workspace, Okta and other platforms.
 
 I possess exceptional skills in the design, development, and implementation of automation solutions for security teams, and I have a proven track record of delivering successful projects within stipulated timelines and budgets.
 
