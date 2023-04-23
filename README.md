@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alfred</h1>
-<h3>I am an IT professional living in Singapore with over a decade of technical experience and I have worked in multiple industries such as healthcare, logistics, advertising, manufacturing and fintech. I have a strong background in automation and have completed numerous projects in this area, utilizing technology stacks such as Okta, AWS, Azure, Jira and other platforms to make the magic happen. I am highly skilled in the design, development, and implementation of automation solutions for security team using these platforms, and have a proven track record of delivering successful projects on time and within budget.</br></br>In my current role, I am responsible for the development and maintenance of identity security systems for a world leading crypto company.</br></br>I hope you find my projects and experience in automation interesting and informative. This Github account helps me archive my projects for future reference. Feel free to reach out to me if you have any questions or would like to collaborate on a project.</h3>
+<h3>I am an experienced IT professional residing in Singapore, with over a decade of technical expertise across various industries including healthcare, logistics, advertising, manufacturing, and fintech. My core competency lies in automation, and I have successfully executed numerous automation projects utilizing various technology stacks such as Okta, AWS, Azure, Jira, and other platforms.
+
+I possess exceptional skills in the design, development, and implementation of automation solutions for security teams, and I have a proven track record of delivering successful projects within stipulated timelines and budgets.
+
+Currently, I hold a pivotal role in the development and maintenance of identity security systems for a world-renowned crypto company.
+
+This Github account serves as a repository for my past and ongoing projects, enabling me to reference them in the future. Please do not hesitate to contact me if you have any queries or wish to collaborate on a project.</h3>
 
 - 🔭 I’m currently working on **Identity & Access Management Architecture**
 
