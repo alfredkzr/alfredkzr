@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alfred</h1>
-<h3>I am an experienced IT professional residing in Singapore, with over a decade of technical expertise across various industries including healthcare, logistics, advertising, manufacturing, and fintech. My core competency lies in automation, and I have successfully executed numerous automation projects utilizing various technology stacks such as AWS, Azure, Google Workspace, Okta and other platforms.
+<h3>I am a seasoned IT professional based in Singapore, with over a decade of diverse technical expertise spanning healthcare, logistics, advertising, manufacturing, and fintech industries. My primary focus and expertise center on automation, and I have a proven track record of successfully executing numerous automation projects employing a wide array of technology stacks, including AWS, Azure, Google Workspace, Okta, and other platforms.
 
-I possess exceptional skills in the design, development, and implementation of automation solutions for security teams, and I have a proven track record of delivering successful projects within stipulated timelines and budgets.
+I possess exceptional proficiency in designing, developing, and implementing automation solutions, particularly tailored for security teams. My consistent ability to deliver projects on time and within budget showcases my dedication to project management and technical acumen.
 
-Currently, I hold a pivotal role in the development and maintenance of identity security systems for a world-renowned crypto company.
+Currently, I hold a pivotal role in the development and maintenance of identity security systems for a globally recognized cryptocurrency company.
 
-This Github account serves as a repository for my past and ongoing projects, enabling me to reference them in the future. Please do not hesitate to contact me if you have any queries or wish to collaborate on a project.</h3>
+This GitHub repository serves as a comprehensive archive of my past and ongoing private projects, providing a valuable resource for future reference. If you have any questions or are interested in collaboration, please feel free to reach out to me. I welcome the opportunity to connect and explore potential projects together.</h3>
 
 - 🔭 I’m currently working on **Identity & Access Management Architecture**
 
