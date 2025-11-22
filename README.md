@@ -19,11 +19,6 @@ My GitHub mainly contains tooling, experiments, and automation scripts I build i
 - Privileged Access & Secrets Management  
 - Automation for cloud and identity platforms  
 
-### 🌱 What I'm learning
-- Advanced AWS cloud security  
-- Python for automation and tooling  
-- Identity governance frameworks  
-
 ### 📫 Contact
 **alfredkzr@gmail.com**
 
