@@ -1,38 +1,63 @@
-<h1 align="center">Hi 👋, I'm Alfred</h1>
+<div align="center">
 
-<h3 align="center">
-Identity & Access Management (IAM) Architect • Cloud Security • Automation Engineering  
-</h3>
+# Hey, I'm Alfred 👋
 
----
+### Cybersecurity Enterprise Architect
 
-I'm an IT and security professional based in Singapore with over a decade of experience across multiple global industries.  
-My work focuses on **Identity & Access Management**, **Zero Trust security**, and **automation for security and infrastructure platforms**.
+*Building identity-first security architectures for regulated financial institutions*
 
-I design and implement identity architectures across cloud environments (AWS, Azure), SaaS platforms, and enterprise systems, with hands-on experience building secure access workflows, identity governance automation, and cloud-native security controls.
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Architecture-0A66C2?style=for-the-badge)
+![IAM](https://img.shields.io/badge/Identity_%26_Access-Management-6A0DAD?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud-Security-FF6B35?style=for-the-badge)
+![CISSP](https://img.shields.io/badge/CISSP-In%20Progress-2D8B57?style=for-the-badge)
 
-My GitHub mainly contains tooling, experiments, and automation scripts I build in my personal time to stay sharp and explore new ideas. I keep most work private due to the nature of my roles, but I occasionally publish safe, simplified versions of utilities and prototypes.
-
-### 🔭 What I'm focused on
-- Identity & Access Management Architecture  
-- Zero Trust / Identity-first Security  
-- Privileged Access & Secrets Management  
-- Automation for cloud and identity platforms  
-
-### 📫 Contact
-**alfredkzr@gmail.com**
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-</p>
+### About
+
+Cybersecurity architect with **10+ years** designing and securing enterprise environments across MAS-regulated banking, global FinTech, and regional enterprise IT.
+
+I specialise in **identity-first security** — architectures that hold up under regulatory scrutiny, scale across multi-cloud environments, and outlast the teams that built them. My work sits at the intersection of Zero Trust design, IAM at scale, and security governance for regulated institutions.
+
+---
+
+### Domain Focus
+
+| Area | Stack |
+|------|-------|
+| 🔐 **Identity & Access** | IAM · PAM · RBAC/ABAC · Federation · Phishing-Resistant MFA |
+| 🛡️ **Zero Trust** | Identity-centric security · Micro-segmentation · Least privilege |
+| ☁️ **Cloud Security** | AWS · Azure · Multi-cloud IAM · IaC security |
+| ⚙️ **Automation** | Python · Terraform · GitHub Actions · Identity pipelines |
+
+---
+
+### What I Build
+
+Most of my work lives in private repositories — identity infrastructure, IaC security modules, and automation tooling for regulated environments.
+
+```
+Identity Governance        Access certification · Lifecycle automation · Orphaned account detection
+Zero Trust Architecture    Reference architecture for FinServ · Cloud-native implementation  
+Security Automation        Identity data pipelines · Anomaly detection · Compliance reporting
+IaC Security Patterns      Terraform modules · Security guardrails · Policy-as-code
+```
+
+---
+
+### Industries
+
+🏦 &nbsp;**MAS-Regulated Banking**
+&nbsp;&nbsp;💱 &nbsp;**Global FinTech & Crypto**
+&nbsp;&nbsp;&nbsp;&nbsp;🏭 &nbsp;**Regional Enterprise** — Logistics · Manufacturing · Media
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏥 &nbsp;**Healthcare IT**
+
+---
+
+<div align="center">
+
+*Singapore-based · Building secure foundations for regulated institutions*
+
+</div>
