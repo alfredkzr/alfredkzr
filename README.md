@@ -9,7 +9,7 @@
 ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Architecture-0A66C2?style=for-the-badge)
 ![IAM](https://img.shields.io/badge/Identity_%26_Access-Management-6A0DAD?style=for-the-badge)
 ![Cloud Security](https://img.shields.io/badge/Cloud-Security-FF6B35?style=for-the-badge)
-![CISSP](https://img.shields.io/badge/CISSP-In%20Progress-2D8B57?style=for-the-badge)
+![CISSP](https://img.shields.io/badge/CISSP-Certified-2D8B57?style=for-the-badge)
 
 </div>
 
