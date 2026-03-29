@@ -1,63 +1,63 @@
-<div align="center">
+# Omakase Booking Bot
 
-# Hey, I'm Alfred 👋
+Automated booking bot for [Omakase.in](https://omakase.in) restaurants. Monitors slot availability and auto-books when matching slots open — built for hard-to-reserve restaurants like Sugita Sushi and Sanshin Sushi.
 
-### Cybersecurity Enterprise Architect
+## Features
 
-*Building identity-first security architectures for regulated financial institutions*
+- **Browser automation** — Playwright-based bot that navigates Omakase.in like a real user
+- **Priority waterfall booking** — Rank your preferred (date, time) slots; bot tries them in order and stops on first success
+- **Multi-restaurant targets** — Monitor multiple restaurants simultaneously with priority ordering
+- **Anti-double-booking** — Immediately halts all attempts once a booking succeeds
+- **Real-time dashboard** — Next.js frontend with live status, activity feed, and full configuration UI
+- **Telegram notifications** — Instant alerts for slot found, booking confirmed, errors
+- **Drag-to-reorder preferences** — Visual slot priority management in the UI
 
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Architecture-0A66C2?style=for-the-badge)
-![IAM](https://img.shields.io/badge/Identity_%26_Access-Management-6A0DAD?style=for-the-badge)
-![Cloud Security](https://img.shields.io/badge/Cloud-Security-FF6B35?style=for-the-badge)
-![CISSP](https://img.shields.io/badge/CISSP-Certified-2D8B57?style=for-the-badge)
+## Architecture
 
-</div>
+| Component | Technology |
+|-----------|------------|
+| Bot Engine | Python + Playwright |
+| Backend API | Python + FastAPI |
+| Frontend | Next.js 14 + TypeScript + Tailwind + shadcn/ui |
+| Database | SQLite |
+| Notifications | Telegram |
+| Deployment | Docker Compose |
 
----
+## Quick Start
 
-### About
+```bash
+# 1. Clone the repo
+git clone https://github.com/alfredkzr/omakase-booking-bot.git
+cd omakase-booking-bot
 
-Cybersecurity architect with **10+ years** designing and securing enterprise environments across MAS-regulated banking, global FinTech, and regional enterprise IT.
+# 2. Copy and configure environment
+cp .env.example .env
+# Edit .env with your encryption key (see .env.example for instructions)
 
-I specialise in **identity-first security** — architectures that hold up under regulatory scrutiny, scale across multi-cloud environments, and outlast the teams that built them. My work sits at the intersection of Zero Trust design, IAM at scale, and security governance for regulated institutions.
+# 3. Run with Docker Compose
+docker compose up --build
 
----
-
-### Domain Focus
-
-| Area | Stack |
-|------|-------|
-| 🔐 **Identity & Access** | IAM · PAM · RBAC/ABAC · Federation · Phishing-Resistant MFA |
-| 🛡️ **Zero Trust** | Identity-centric security · Micro-segmentation · Least privilege |
-| ☁️ **Cloud Security** | AWS · Azure · Multi-cloud IAM · IaC security |
-| ⚙️ **Automation** | Python · Terraform · GitHub Actions · Identity pipelines |
-
----
-
-### What I Build
-
-Most of my work lives in private repositories — identity infrastructure, IaC security modules, and automation tooling for regulated environments.
-
-```
-Identity Governance        Access certification · Lifecycle automation · Orphaned account detection
-Zero Trust Architecture    Reference architecture for FinServ · Cloud-native implementation  
-Security Automation        Identity data pipelines · Anomaly detection · Compliance reporting
-IaC Security Patterns      Terraform modules · Security guardrails · Policy-as-code
+# 4. Open the dashboard
+# Frontend: http://localhost:3000
+# Backend API: http://localhost:8000/docs
 ```
 
----
+## Setup
 
-### Industries
+1. **Configure credentials** — Go to Settings page, enter your Omakase.in email/password
+2. **Set up Telegram** — Create a bot via [@BotFather](https://t.me/botfather), enter the token and your chat ID
+3. **Add restaurant targets** — Paste the restaurant URL, set party size, preferred dates, and rank your slot preferences
+4. **Start monitoring** — Hit the Start button on the Dashboard
 
-🏦 &nbsp;**MAS-Regulated Banking**
-&nbsp;&nbsp;💱 &nbsp;**Global FinTech & Crypto**
-&nbsp;&nbsp;&nbsp;&nbsp;🏭 &nbsp;**Regional Enterprise** — Logistics · Manufacturing · Media
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏥 &nbsp;**Healthcare IT**
+## How Booking Works
 
----
+1. Bot wakes up at the configured "booking window open" time
+2. Checks the restaurant calendar for available slots
+3. Filters by your exact party size and preferred date range
+4. Tries to book your #1 preference first, then #2, #3, etc.
+5. On success: stops immediately, sends Telegram confirmation
+6. On all slots taken: notifies you, keeps monitoring for cancellations
 
-<div align="center">
+## Disclaimer
 
-*Singapore-based · Building secure foundations for regulated institutions*
-
-</div>
+This tool automates interactions with Omakase.in, which may violate their Terms of Service. Use at your own risk. The author is not responsible for any account suspensions or other consequences.
